@@ -14,3 +14,5 @@ This can be installed simply with `pip install winapps`.
 ## Implementation
 
 Run `python3 Search Installed Applications.py` in a terminal if you have Python 3.
+
+DISCLAIMER: Help given from the internet.
